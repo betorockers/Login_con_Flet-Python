@@ -92,6 +92,15 @@ container = ft.Container(
             ],
             alignment= ft.MainAxisAlignment.CENTER
             )
+        ),
+        ft.Container(
+            ft.Row([
+                ft.TextButton("B3tograf_dev", 
+                url_target="https://www.instagram.com/b3tograf_dev/"
+                )
+            ],
+            alignment= ft.MainAxisAlignment.CENTER
+            )
         )
     ],
     
