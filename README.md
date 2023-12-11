@@ -1,3 +1,8 @@
+Hola a todos. 
+
+Mi nombre es Omar Toledo estudiante autodidacta de programacion en Python, me encuentro en la etapa de contruir proyectos propios y tambien clonados, les dejo una apps Login para que la utilicen e implementen a gusto.
+
+
 Proyecto realizado con python junto al libreria Flet(by flutter) 
 
 En la cual realizamos un inicio de session moderno y utilizable tanto para una app movil o una spa web.
